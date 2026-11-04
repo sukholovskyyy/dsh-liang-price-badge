@@ -40,5 +40,13 @@
     "off-peak",
     "rheostat"
   ],
-  "author": ""
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukholovskyyy/dsh-liang-price-badge.git"
+  },
+  "homepage": "https://github.com/sukholovskyyy/dsh-liang-price-badge#readme",
+  "bugs": {
+    "url": "https://github.com/sukholovskyyy/dsh-liang-price-badge/issues"
+  }
 }
