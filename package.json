@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Goofy Liang Wenfeng / Liang Wengu price badge in the sidebar footer, driven by the real DeepSeek peak/off-peak schedule.",
+  "description": "DeepSeek Harness 侧边栏插件：按官方峰谷时段显示当前高峰/空闲、距下次切换的倒计时与空闲 5 折提示；自动识别周末与法定节假日，纯本地计算。",
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
