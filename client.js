@@ -162,7 +162,7 @@ window.__ModuleLoader__.load({
     const STYLE = [
       '.lw-row,.lw-mini{--lw-accent:var(--dsw-alias-state-success-primary)}',
       '.lw-row[data-peak="true"],.lw-mini[data-peak="true"]{--lw-accent:var(--dsw-alias-state-warn-primary)}',
-      '.lw-row{display:flex;align-items:center;gap:8px;flex:1 1 auto;min-width:0;box-sizing:border-box;margin:0 0 2px;padding:6px 8px;border-radius:10px;color:var(--dsw-alias-label-primary);font:inherit;font-size:13px;line-height:18px}',
+      '.lw-row{display:flex;align-items:center;gap:8px;flex:1 1 auto;min-width:0;box-sizing:border-box;margin:0 0 2px;padding:6px 0;border-radius:10px;color:var(--dsw-alias-label-primary);font:inherit;font-size:13px;line-height:18px}',
       '.lw-avatar{display:block;width:36px;height:36px;flex:none;border-radius:50%;overflow:hidden;border:1px solid var(--dsw-alias-border-l1);background:var(--dsw-alias-bg-layer-1);box-shadow:0 1px 2px rgba(0,0,0,.10)}',
       '.lw-frame{display:block;width:100%;height:100%;object-fit:cover}',
       '.lw-main{display:flex;flex-direction:column;gap:1px;flex:1;min-width:0}',
